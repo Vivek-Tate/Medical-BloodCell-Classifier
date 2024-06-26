@@ -52,7 +52,7 @@ The performance of all models is compared and visualized using confusion matrice
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/medical-bloodcell-classifiers.git
+   git clone https://github.com/Vivek-Tate/Medical-BloodCell-Classifier.git
    ```
 
 ## Dependencies
